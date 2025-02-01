@@ -7,7 +7,7 @@
 
 ## 📱 Demo & Live Preview
 
-https://github.com/mohit-uchit/reactNative/blob/card-and-components/demp.mp4
+![Demo](https://github.com/mohit-uchit/reactNative/blob/card-and-components/demp.mp4)
 
 ## 📱 Features & Components
 
